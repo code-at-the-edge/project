@@ -12,3 +12,36 @@ Our goal is to create and teach a web development curriculum appropriate to the 
 # How we work
 
 Tasks and deadlines are tracked using a [planning board](https://github.com/code-at-the-edge/project/projects/1) in this GitHub repo. We use [Slack](https://codeattheedge.slack.com/) and co-work in-person weekly **Mondays from 1-3 pm**.
+
+# Project Timeline and Key Dates
+
+We imagine this inital phase of the project lasting from October 2018 - March 2019
+
+| WK# | Deadline      |
+|-----|---------------|
+|     | **NOVEMBER** |
+| 45  | **Nov 05** Completed documenting current implementation |
+| 46  | **Nov 12**   |
+| 47  | **Nov 19** Project requirements and guiding concerns drafted |
+| 48  | **Nov 26** <br /> **Go/No-go dec'n on Feb Delivery in Sikkim** <br /> Go/No-go dec'n on research writing venues  <br /> Dec'n on hardware/software stack, curriculum materials format |
+|     | **DECEMBER** |
+| 49  | **Dec 03**   |
+| 50  | **Dec 15** Drafted initial lessons <br /> **Tentative** Research Writing First Draft (CHI, DIS) |
+| 51  | XXX OFF! XXX |
+| 52  | XXX OFF! XXX |
+|**2019**| **JANUARY** |
+| 1   | XXX OFF! XXX |
+| 2   | **Jan 07** Recieved Curriculum Feedback <br /> **Tentative** Research Writing Submission (CHI, DIS) |
+| 3   | **Jan 14** Developed Raspberry Pi prototype |
+| 4   | **Jan 21** Workshop Test Run!   |
+| 5   |    |
+|     | **FEBRUARY** |
+| 6   |    |
+| 7   |    |
+| 8   | **Feb 16-24** **Tentative** Project teaching in Sikkim |
+| 9   |    |
+|     | **MARCH** |
+| 10   | Project reflection   |
+| 11   |    |
+| 12   |    |
+| 13   |    |
