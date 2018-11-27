@@ -9,10 +9,46 @@ Our goal is to create and teach a web development curriculum appropriate to the 
 - **Software Decisions:** To enable local web development in the absence of a stalbe Internet connection, we ran local instances of [jsbin](https://jsbin.com} ([github](https://github.com/jsbin/jsbin/)), Apache, Wordpress, and other services, with local copies of resources such as jQuery, etc. The implementation was very hacky and somewhat unstable, and required substantial experise to troubleshoot. It will take substantial work to transform this into an easy-to-use utility.
 - **Pedagogical Decisions:** The most exciting part of the project (for @titaniumbones at least) is coming up with curricula for students *and also for their teachers*, who at present do not themselves have much experience with web development or languages ushc as HTML, CSS, and javascript. This will be a multi-stage process and will certainly involve feedback from the students themselves.  
 
-# How we work
+# Planning and Reference Documents
+
+- [Project Planning Board](https://github.com/code-at-the-edge/project/projects/1)
+- [Project Requirements and Guiding Concerns (draft)](https://hackmd.io/s/rk4qe2E27#)
+- [Trip Guide (draft)](https://hackmd.io/s/Hykpz2YR7#)
+
+# Project Timeline and Key Dates
+
+We imagine this inital phase of the project lasting from October 2018 - March 2019.
+
+| WK# | Deadline      |
+|-----|---------------|
+|     | **NOVEMBER** |
+| 45  | **Nov 05** Completed documenting current implementation |
+| 46  | **Nov 12**   |
+| 47  | **Nov 19** Project requirements and guiding concerns drafted |
+| 48  | **Nov 26** <br /> **Go/No-go dec'n on Feb Delivery in Sikkim** <br /> Go/No-go dec'n on research writing venues  <br /> Dec'n on hardware/software stack, curriculum materials format |
+|     | **DECEMBER** |
+| 49  | **Dec 03**   |
+| 50  | **Dec 15** Drafted initial lessons <br /> **Tentative** Research Writing First Draft (CHI, DIS) |
+| 51  | XXX OFF! XXX |
+| 52  | XXX OFF! XXX |
+|**2019**| **JANUARY** |
+| 1   | XXX OFF! XXX |
+| 2   | **Jan 07** Recieved Curriculum Feedback <br /> **Tentative** Research Writing Submission (CHI, DIS) |
+| 3   | **Jan 14** Developed Raspberry Pi prototype |
+| 4   | **Jan 21** Workshop Test Run!   |
+| 5   |    |
+|     | **FEBRUARY** |
+| 6   |    |
+| 7   |    |
+| 8   | **Feb 16-24** **Tentative** Project teaching in Sikkim |
+| 9   |    |
+|     | **MARCH** |
+| 10   | Project reflection   |
+| 11   |    |
+| 12   |    |
+| 13   |    |
+
+# How We Work
 
 Tasks and deadlines are tracked using a [planning board](https://github.com/code-at-the-edge/project/projects/1) in this GitHub repo. We use [Slack](https://codeattheedge.slack.com/) and co-work in-person weekly **Mondays from 1-3 pm**.
 
-Planning and reference documents:
-- [Project Requirements and Guiding Concerns (draft)](https://hackmd.io/s/rk4qe2E27#)
-- [Trip Guide (draft)](https://hackmd.io/s/Hykpz2YR7#)
