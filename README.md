@@ -9,7 +9,7 @@ Our goal is to create and teach a web development curriculum appropriate to the 
 - **Software Decisions:** To enable local web development in the absence of a stalbe Internet connection, we ran local instances of [jsbin](https://jsbin.com} ([github](https://github.com/jsbin/jsbin/)), Apache, Wordpress, and other services, with local copies of resources such as jQuery, etc. The implementation was very hacky and somewhat unstable, and required substantial experise to troubleshoot. It will take substantial work to transform this into an easy-to-use utility.
 - **Pedagogical Decisions:** The most exciting part of the project (for @titaniumbones at least) is coming up with curricula for students *and also for their teachers*, who at present do not themselves have much experience with web development or languages ushc as HTML, CSS, and javascript. This will be a multi-stage process and will certainly involve feedback from the students themselves.  
 
-# Planning and reference documents
+# Planning and Reference Documents
 
 - [Project Planning Board](https://github.com/code-at-the-edge/project/projects/1)
 - [Project Requirements and Guiding Concerns (draft)](https://hackmd.io/s/rk4qe2E27#)
