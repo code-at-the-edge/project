@@ -13,5 +13,6 @@ Our goal is to create and teach a web development curriculum appropriate to the 
 
 Tasks and deadlines are tracked using a [planning board](https://github.com/code-at-the-edge/project/projects/1) in this GitHub repo. We use [Slack](https://codeattheedge.slack.com/) and co-work in-person weekly **Mondays from 1-3 pm**.
 
-Other reference documents:
-- [Work Plan and Timeline](https://hackmd.io/s/rk4qe2E27#)
+Planning and reference documents:
+- [Project Requirements and Guiding Concerns (draft)](https://hackmd.io/s/rk4qe2E27#)
+- [Trip Guide (draft)](https://hackmd.io/s/Hykpz2YR7#)
