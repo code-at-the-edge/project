@@ -9,13 +9,15 @@ Our goal is to create and teach a web development curriculum appropriate to the 
 - **Software Decisions:** To enable local web development in the absence of a stalbe Internet connection, we ran local instances of [jsbin](https://jsbin.com} ([github](https://github.com/jsbin/jsbin/)), Apache, Wordpress, and other services, with local copies of resources such as jQuery, etc. The implementation was very hacky and somewhat unstable, and required substantial experise to troubleshoot. It will take substantial work to transform this into an easy-to-use utility.
 - **Pedagogical Decisions:** The most exciting part of the project (for @titaniumbones at least) is coming up with curricula for students *and also for their teachers*, who at present do not themselves have much experience with web development or languages ushc as HTML, CSS, and javascript. This will be a multi-stage process and will certainly involve feedback from the students themselves.  
 
-# How we work
+# Planning and reference documents
 
-Tasks and deadlines are tracked using a [planning board](https://github.com/code-at-the-edge/project/projects/1) in this GitHub repo. We use [Slack](https://codeattheedge.slack.com/) and co-work in-person weekly **Mondays from 1-3 pm**.
+- [Project Planning Board](https://github.com/code-at-the-edge/project/projects/1)
+- [Project Requirements and Guiding Concerns (draft)](https://hackmd.io/s/rk4qe2E27#)
+- [Trip Guide (draft)](https://hackmd.io/s/Hykpz2YR7#)
 
 # Project Timeline and Key Dates
 
-We imagine this inital phase of the project lasting from October 2018 - March 2019
+We imagine this inital phase of the project lasting from October 2018 - March 2019.
 
 | WK# | Deadline      |
 |-----|---------------|
@@ -45,3 +47,8 @@ We imagine this inital phase of the project lasting from October 2018 - March 20
 | 11   |    |
 | 12   |    |
 | 13   |    |
+
+# How We Work
+
+Tasks and deadlines are tracked using a [planning board](https://github.com/code-at-the-edge/project/projects/1) in this GitHub repo. We use [Slack](https://codeattheedge.slack.com/) and co-work in-person weekly **Mondays from 1-3 pm**.
+
