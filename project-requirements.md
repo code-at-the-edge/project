@@ -1,6 +1,6 @@
 # Code at the Edge Project Requirements and Guiding Concerns
 
-_Last updated: December 3, 2018_
+_Last updated: January 31, 2019_
 
 - [Who and what is this about?](#who-and-what-is-this-about)
   - [School and Classroom Setting](#school-and-classroom-setting)
@@ -166,6 +166,18 @@ Curriculum:
 
 Open(ly licensed):
 - Unclear? Appears to rely on other openly available materials
+
+#### [Developers in Vogue](http://developersinvogue.org/) Accra, Ghana
+
+[Developers in Vogue](http://developersinvogue.org/) aims at creating a relevant community of amazing African women who are passionate about using technology to revolutionize Africa and beyond. We train African women in the latest technologies and connect them to life-changing opportunities in the tech ecosystem...Females make up more than 50% of the population of most African countries and have a great opportunity to play a vital role in the development of products and services.
+
+Curriculum:
+- Bootcamp format, with one-on-one mentoring and pair-programming emphasis
+- 40 hrs/week, 4 weeks
+- Unclear instructional hours / topic or course
+
+Open(ly licensed):
+- Unclear
 
 #### [ReDI School of Digital Integration](https://www.redi-school.org/about-us)
 
